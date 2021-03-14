@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bernardo Alves
 - 👀 I’m interested in Aerospace Engineering, particularly aircraft
-- 🌱 I’m currently learning a python framework (OpenMDAO) to perform optimisation in a Conceptual Aircraft project...
+- 🌱 I’m currently learning a python framework (OpenMDAO) to perform optimisation in a Conceptual Aircraft project
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on my e-mail addres: berga007@gmail.com
 
